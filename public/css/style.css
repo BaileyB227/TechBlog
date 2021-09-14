@@ -124,11 +124,11 @@ nav {
   color: #3486eb;
 }
 
-.delete-post-btn {
+.deletePost-btn {
   background-color: #d41414;
 }
 
-.delete-post-btn:hover {
+.deletePost-btn:hover {
   background-color: #ff643d;
 }
 
@@ -182,12 +182,12 @@ nav {
   opacity: 0.6;
 }
 
-.new-post-form input,
+.newPost-form input,
 textarea {
   width: 80%;
 }
 
-.edit-post-form {
+.editPost-form {
   margin-bottom: 5%;
 }
 
